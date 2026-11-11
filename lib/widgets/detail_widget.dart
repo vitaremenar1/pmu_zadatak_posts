@@ -44,7 +44,7 @@ class PostKartica extends StatelessWidget {
               scale: pinned ? 1 : 0,
               duration: const Duration(milliseconds: 250),
               curve: Curves.easeOutBack,
-              child: const Icon(Icons.push_pin, color: Colors.green),
+              child: const Icon(Icons.push_pin, color: Colors.pink),
             ),
           ],
         ),
